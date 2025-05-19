@@ -1,2 +1,12 @@
 # Conversor-de-Moedas
 Converte moedas em tempo real
+DESCRIÇÃO DO PROJETO
+
+
+FUNCIONALIDADES
+
+
+COMO OS USUÁRIOS PODEM UTILIZA-LO
+
+
+AUTOR DO PROJETO
