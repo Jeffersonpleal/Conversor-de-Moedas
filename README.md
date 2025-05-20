@@ -21,7 +21,7 @@ O projeto oferece as seguintes funcionalidades principais:
 -Tratamento Básico de Erros:  Inclui validação para garantir que o usuário insira números inteiros para as opções do menu e números decimais para os valores a converter.
 
 3) Como o Usuário Pode Utilizá-lo
-  Para utilizar o Conversor de Moedas, siga os passos abaixo:
+  Para converter moedas, siga os passos abaixo:
 
   - Pré-requisitos:  Certifique-se de ter o Java Development Kit (JDK) instalado em sua máquina (versão 8 ou superior é recomendada).
   -É necessário ter conexão com a internet para que o programa possa buscar as taxas de câmbio atualizadas.
