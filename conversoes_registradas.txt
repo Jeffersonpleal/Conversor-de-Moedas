@@ -1,0 +1,6 @@
+[19/05/2025 17:50:28] Conversão realizada: USD -> BRL | Valor: 100,00
+[19/05/2025 17:55:06] Conversão realizada: BRL -> USD | Valor: 20,00
+[19/05/2025 17:56:57] Conversão realizada: COP -> USD | Valor: 50,00
+[19/05/2025 18:07:31] Conversão realizada: USD -> COP | Valor: 50,00
+[20/05/2025 11:40:40] Conversão realizada: ARS -> USD | Valor: 80,00
+[21/05/2025 11:31:29] Conversão realizada: USD -> BRL | Valor: 10,00
