@@ -9,7 +9,7 @@ import java.net.http.HttpResponse;
 
 public class ConsultaMoeda {
     public ConversorEmPares buscaMoeda(String moeda1, String moeda2, double quantidade) throws IOException, InterruptedException {
-        String endereco = "https://v6.exchangerate-api.com/v6/7ef03d2bb6f01c05197bb412/pair/" + moeda1 + "/" + moeda2 + "/" + quantidade;
+        String endereco = "https://v6.exchangerate-api.com/v6/SUA-CHAVE-NA-API/pair/" + moeda1 + "/" + moeda2 + "/" + quantidade;
 
         ConversorEmPares conversorEmPares = new ConversorEmPares();
         HttpClient cliente = HttpClient.newHttpClient();
